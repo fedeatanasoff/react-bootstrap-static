@@ -2,6 +2,7 @@
   "name": "react-101",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://<fedeatanasoff>.github.io/react-bootstrap-static",
   "dependencies": {
     "prop-types": "^15.6.1",
     "react": "^16.2.0",
